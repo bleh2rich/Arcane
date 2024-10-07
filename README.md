@@ -13,7 +13,7 @@
   
 > 🔥 Launched
 
-- <a href="https://www.youtube.com/@PrestigedDev">Official ATN Wattyhub Developer</a>
+- <a href="https://www.youtube.com/@PrestigedDev">Official AO Wattyhub Developer</a>
 
 - Loadstring Arcane Odyssey Wattyhub
 ```
