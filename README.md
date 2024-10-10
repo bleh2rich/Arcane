@@ -7,7 +7,12 @@
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/Gi6SKs4_d.webp?maxwidth=760&fidelity=grand"width="750"> </kbd><br><br>
 
 # DISCORD SERVER INVITE discord.gg/zbgRZxNRKa
-    
+
+
+
+- 10/10/2024 UPDATE LOG
+  
+> 🔥 FIXED INCOMPATIBLE WITH SOLARA
 
 - 10/7/2024 UPDATE LOG
   
