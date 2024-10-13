@@ -24,6 +24,10 @@
 ```
  loadstring(game:HttpGet(('https://raw.githubusercontent.com/bleh2rich/Arcane/refs/heads/main/ArcaneWattyhub.lua'),true))()
 ```
+- Loadstring Arcane Odyssey Wattyhub (WORKS FOR SOLARA)
+```
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/bleh2rich/Arcane/refs/heads/main/ArcaneSolaraVersion.lua'),true))()
+```
 
 
 ``` made By Dood3 ```
